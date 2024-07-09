@@ -4,7 +4,6 @@ Gem::Specification.new do |s|
   s.name = 'smart_proxy_ipam'
   s.version = Proxy::Ipam::VERSION
   s.required_ruby_version = '>= 2.5'
-
   s.summary = 'Smart proxy plugin for integration with External IPAM providers'
   s.description = 'Smart proxy plugin for integration with various External IPAM providers'
   s.authors = ['Christopher Smith']
